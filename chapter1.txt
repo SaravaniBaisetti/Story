@@ -1,0 +1,5 @@
+Hello there, we are here learning about how to work with git and repositories
+We are glad to see you all here.
+Hope you like this course.
+
+making the an update
