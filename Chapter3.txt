@@ -1,0 +1,3 @@
+Here we are in chapter 3. writing some bsic codes and commands in terminals.
+Do you guys like the coding ?
+We are currently working on our project using MERN stack. 
